@@ -1,4 +1,7 @@
 Amazon Price Tracker Telegram Bot
+Here is Direct LInk to my Working TelegramBot
+https://t.me/AmazedTrackerBot
+
 A simple yet powerful Telegram bot that monitors Amazon product pages and notifies you when the price drops. Built with Python and deployed on Google Cloud Run.
 
 ✨ Features
